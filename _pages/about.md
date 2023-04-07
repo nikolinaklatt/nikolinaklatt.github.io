@@ -18,9 +18,11 @@ As a dedicated researcher and professional, I am committed to using my expertise
 
 Research Interests
 ======
-•	Computational Social Science
-•	Policy Process Research
-•	Reproductive Rights / Women’s Health Policy
+Computational Social Science
+
+Policy Process Research
+
+Reproductive Rights / Women’s Health Policy
 
 Publications
 ======
