@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nikolina Klatt / Site Title"
+title                    : "Nikolina Klatt"
 title_separator          : "-"
 name                     : &name "Nikolina Klatt"
 description              : &description "personal description"
