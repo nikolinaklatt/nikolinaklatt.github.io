@@ -26,8 +26,15 @@ Reproductive Rights / Women’s Health Policy
 
 Publications
 ======
-Klatt, Nikolina. 2022. “[Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie - Eine Fallstudie zu politischen Erzählungen](https://doi.org/10.2370/9783844087567)” In: Facetten Politischer Kommunikation - Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher,  Shaker Verlag GmbH. https://doi.org/10.2370/9783844087567
 
-Klatt, Nikolina and Böhret, Ines. "[Women's Rights in Childbirth during the COVID-19 Pandemic: A comparison of WHO guidelines to policies, recommendations, and practices in the US and Germany](http://doi.org/10.52854/cchrr-51)" (2021) 3 In: Cross-cultural Human Rights Review 1-41, http://doi.org/10.52854/cchrr-51
+Klatt, Nikolina and Blum, Sonja. “How is (un)certainty of evidence reflected in policy narratives? A case study on two pandemic shutdowns of public schools in New York City.” Under Review at Review of Policy Research 
+
+Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie – Eine Fallstudie zu politischen Erzählungen.” In: Facetten Politischer Kommunikation – Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher, Shaker Verlag GmbH. [https://doi.org/10.2370/9783844087567](https://doi.org/10.2370/9783844087567)
+
+Klatt, Nikolina* and Böhret, Ines*. 2021. “[Women's Rights in Childbirth during the COVID-19 Pandemic: A comparison of WHO guidelines to policies, recommendations, and practices in the US and Germany](files/Klatt_Boehret_2021.pdf)” In: Cross-cultural Human Rights Review (3):1-41, [http://doi.org/10.52854/cchrr-51](http://doi.org/10.52854/cchrr-51).
+* contributed equally 
+
+Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische Gewalt und Demokratie. Konferenz 'Political Violence and Democratic Backsliding' am 6. und 7. Oktober 2022 am WZB, organisiert von der Abteilung Transformationen der Demokratie](files/Klatt_Hellmeier_Ziblatt_2022.pdf)". In: WZB-Mitteilungen, H. 4=Nr. 178, S. 62.
+
 
 You can find my [CV](files/CV_Klatt_Nikolina.pdf) here. 
