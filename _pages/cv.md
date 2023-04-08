@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my [CV](files/CV_Klatt_Nikolina.pdf) here. 
+You can find my [CV](files/CV_Klatt_Nikolina.pdf) here.  
