@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nikolina Klatt"
   avatar           : "DSC05206-min.jpg"
-  bio              : "MPP Candidate at the Hertie School and Research Assistant at the WZB Berlin Social Science Center"
+  bio              : "MPP Candidate at Hertie School and Research Assistant at WZB Berlin Social Science Center"
   location         : "Berlin"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -101,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://linkedin.com/in/nikolina-klatt/"
+  linkedin         : "nikolina-klatt/"
   orcid            : "http://orcid.org/0000-0002-7835-885X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "nikolina_klatt"
   vine             :
   weibo            :
   xing             :
