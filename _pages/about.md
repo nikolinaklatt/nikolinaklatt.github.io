@@ -36,5 +36,7 @@ Klatt, Nikolina** and Böhret, Ines**. 2021. “[Women's Rights in Childbirth du
 
 Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische Gewalt und Demokratie. Konferenz 'Political Violence and Democratic Backsliding' am 6. und 7. Oktober 2022 am WZB, organisiert von der Abteilung Transformationen der Demokratie](files/Klatt_Hellmeier_Ziblatt_2022.pdf)". In: WZB-Mitteilungen, H. 4=Nr. 178, S. 62.
 
+CV
+======
 
 You can find my [CV](files/CV_Klatt_Nikolina.pdf) here. 
