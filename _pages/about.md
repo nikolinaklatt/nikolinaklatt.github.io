@@ -10,7 +10,7 @@ redirect_from:
 
 I am a policy researcher focusing on computational social science, policy process research, and reproductive rights. I am pursuing a Master of Public Policy at [Hertie School](https://www.hertie-school.org/en/) and hold a B.A. in Political Science from [FernUniversität in Hagen](https://www.fernuni-hagen.de/KSW/portale/bapvs/) and a Mag. phil. in Art History from the [University of Vienna](https://kunstgeschichte.univie.ac.at/en/).
 
-With experience in academia and the professional world, I have worked as a research assistant at [WZB Berlin](https://wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) and the [CoronaNet Research Project](https://www.coronanet-project.org/). My research has been published in reputable journals, and I have presented my work at various conferences. 
+With experience in academia and the professional world, I work as a research assistant at [WZB Berlin](https://wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) and have previously worked the [CoronaNet Research Project](https://www.coronanet-project.org/). My research has been published in peer-reviewed journals, and I have presented my work at various conferences. 
 
 My background includes conference program development at the United Nations with Friendship Ambassadors Foundation, and experience in the art and publishing industries. I am fluent in German and English, with proficiency in several other languages, and possess technical skills including R programming, Git & GitHub, MS Office, Adobe Creative Suite, and social media management.
 
