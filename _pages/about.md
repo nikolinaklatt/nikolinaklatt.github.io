@@ -27,12 +27,16 @@ Reproductive Rights / Women’s Health Policy
 Publications
 ======
 
-Klatt, Nikolina and Blum, Sonja. “How is (un)certainty of evidence reflected in policy narratives? A case study on two pandemic shutdowns of public schools in New York City.” Under Review at Review of Policy Research 
+Klatt, Nikolina and Blum, Sonja. “How does evidence use in policy narratives change throughout crises? A comparative study of New York City’s pandemic school shutdowns.” Resubmitted at Review of Policy Research 
 
 Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie – Eine Fallstudie zu politischen Erzählungen.” In: Facetten Politischer Kommunikation – Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher, Shaker Verlag GmbH. [https://doi.org/10.2370/9783844087567](https://doi.org/10.2370/9783844087567)
 
 Klatt, Nikolina** and Böhret, Ines**. 2021. “[Women's Rights in Childbirth during the COVID-19 Pandemic: A comparison of WHO guidelines to policies, recommendations, and practices in the US and Germany](files/Klatt_Boehret_2021.pdf)” In: Cross-cultural Human Rights Review (3):1-41, [http://doi.org/10.52854/cchrr-51](http://doi.org/10.52854/cchrr-51).
 ** contributed equally 
+
+Klatt, Nikolina/Boese-Schlosser, Vanessa (2023): "[Zwischen Fakten und Fiktion. Wie industrielle Desinformation die Demokratie bedroht](https://bibliothek.wzb.eu/artikel/2023/f-25570.pdf)". In: WZB-Mitteilungen, H. 2=Nr. 180, S. 32-35.
+
+Klatt, Nikolina/Boese-Schlosser, Vanessa A. (2023): "[Authoritarianism and Disinformation. The Dangerous Link](https://theloop.ecpr.eu/disinformation-in-autocratic-governance/)". In: The Loop - ECPR's Political Science Blog, 09.06.2023.
 
 Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische Gewalt und Demokratie. Konferenz 'Political Violence and Democratic Backsliding' am 6. und 7. Oktober 2022 am WZB, organisiert von der Abteilung Transformationen der Demokratie](files/Klatt_Hellmeier_Ziblatt_2022.pdf)". In: WZB-Mitteilungen, H. 4=Nr. 178, S. 62.
 
