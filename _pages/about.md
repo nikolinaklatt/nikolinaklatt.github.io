@@ -38,7 +38,7 @@ Klatt, Nikolina/Boese-Schlosser, Vanessa (2023): "[Zwischen Fakten und Fiktion. 
 
 Klatt, Nikolina/Boese-Schlosser, Vanessa A. (2023): "[Authoritarianism and Disinformation. The Dangerous Link](https://theloop.ecpr.eu/disinformation-in-autocratic-governance/)". In: The Loop - ECPR's Political Science Blog, 09.06.2023.
 
-Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische Gewalt und Demokratie. Konferenz 'Political Violence and Democratic Backsliding' am 6. und 7. Oktober 2022 am WZB, organisiert von der Abteilung Transformationen der Demokratie](files/Klatt_Hellmeier_Ziblatt_2022.pdf)". In: WZB-Mitteilungen, H. 4=Nr. 178, S. 62.
+Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische Gewalt und Demokratie. Konferenzbericht](files/Klatt_Hellmeier_Ziblatt_2022.pdf)". In: WZB-Mitteilungen, H. 4=Nr. 178, S. 62.
 
 CV
 ======
