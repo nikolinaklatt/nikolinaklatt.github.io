@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://nikolinaklatt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikolinaklatt/nikolinaklatt.github.io"
-teaser                   : "DSC05206-min.jpg"
+teaser                   : "Klatt_Nikolina_20230816.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
