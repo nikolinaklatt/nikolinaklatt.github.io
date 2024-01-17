@@ -19,15 +19,18 @@ As a dedicated researcher and professional, I am committed to using my expertise
 Research Interests
 ======
 •	Democratization and Autocratization 
+
 •	Reproductive Rights 
+
 •	Policy Process Research
+
 •	Computational Social Science and Text as Data 
 
 
 Publications
 ======
 
-Klatt, Nikolina and Blum, Sonja. 2024 “How does the use of evidence in policy narratives change during crises? A comparative study of New York City’s pandemic school shutdowns.” In: Review of Policy Research (online first), [10.1111/ropr.12589(https://doi.org/10.1111/ropr.12589)] 
+Klatt, Nikolina and Blum, Sonja. 2024 “How does the use of evidence in policy narratives change during crises? A comparative study of New York City’s pandemic school shutdowns.” In: Review of Policy Research (online first), [10.1111/ropr.12589](https://doi.org/10.1111/ropr.12589) 
 
 Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie – Eine Fallstudie zu politischen Erzählungen.” In: Facetten Politischer Kommunikation – Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher, Shaker Verlag GmbH. [https://doi.org/10.2370/9783844087567](https://doi.org/10.2370/9783844087567)
 
