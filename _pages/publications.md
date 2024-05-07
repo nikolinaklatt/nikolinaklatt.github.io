@@ -17,7 +17,7 @@ author_profile: true
 
 
 Reviewed Articles
-=====
+======
 
 Klatt, Nikolina and Blum, Sonja. 2024 “**How does the use of evidence in policy narratives change during crises? A comparative study of New York City’s pandemic school shutdowns.**” In: Review of Policy Research (Early View), [10.1111/ropr.12589](https://doi.org/10.1111/ropr.12589) 
 
