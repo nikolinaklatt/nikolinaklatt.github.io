@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow in the [Transformations of Democracy Unit](https://wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) unit at the WZB Berlin Social Science Center, directed by Daniel Ziblatt, focusing on reproductive rights, regime transformations, and computational social science. In fall 2024, I will join the Berlin Graduate School for Global and Transregional Studies (BGTS) of SCRIPTS, the Cluster of Excellence at Freie Universität Berlin, as a Doctoral Researcher. 
+I am a research fellow in the [Transformations of Democracy Unit](https://wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) unit at the WZB Berlin Social Science Center, directed by Daniel Ziblatt, focusing on reproductive rights, regime transformations, and computational social science. In fall 2024, I will join the Berlin Graduate School for Global and Transregional Studies (BGTS) of SCRIPTS, the Cluster of Excellence at Freie Universität Berlin, as a Doctoral Researcher. For my doctoral thesis, I investigate the interplay between reproductive rights and regime transformations. 
 Previously, I studied Public Policy at [Hertie School](https://www.hertie-school.org/en/) and hold a B.A. in Political Science from [FernUniversität in Hagen](https://www.fernuni-hagen.de/KSW/portale/bapvs/) and a Mag. phil. in Art History from the [University of Vienna](https://kunstgeschichte.univie.ac.at/en/). 
 
 My research has been published in peer-reviewed journals, and I have presented my work at various conferences, including the ECPR General Conference and the APSA Annual Meeting. 
