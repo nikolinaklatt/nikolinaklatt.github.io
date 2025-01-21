@@ -66,11 +66,11 @@ Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in Ne
 
 Work in Progress
 ======
-•	_Abortion Law and Democratic Backsliding_
-•	_Reproductive Regimes and Political Demography in the United States_ with Myra Marx Ferree 
-•	_What is Democracy to You?_ with Vanessa Boese-Schlosser, Janice Ngiam and Daniel Ziblatt
-•	“Democratization, de-democratization, and human rights,” chapter for the _Handbook of Democratization and De-Democratization_ edited by Matthijs Bogaards
-•	“Authoritarianism and disinformation,” entry for the _Encyclopedia of Authoritarianism_ edited by Thomas Ambrosio and Stephen Hall 
+- _Abortion Law and Democratic Backsliding_
+- _Reproductive Regimes and Political Demography in the United States_ with Myra Marx Ferree
+- _What is Democracy to You?_ with Vanessa Boese-Schlosser, Janice Ngiam and Daniel Ziblatt
+- “Democratization, de-democratization, and human rights,” chapter for the _Handbook of Democratization and De-Democratization_ edited by Matthijs Bogaards
+- “Authoritarianism and disinformation,” entry for the _Encyclopedia of Authoritarianism_ edited by Thomas Ambrosio and Stephen Hall 
 
 CV
 ======
