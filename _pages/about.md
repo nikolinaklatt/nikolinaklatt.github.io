@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in the [Transformations of Democracy Unit](https://wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) unit at the WZB Berlin Social Science Center, directed by Daniel Ziblatt, focusing on reproductive rights, regime transformations, and computational social science. In fall 2024, I will join the Berlin Graduate School for Global and Transregional Studies (BGTS) of SCRIPTS, the Cluster of Excellence at Freie Universität Berlin, as a Doctoral Researcher. For my doctoral thesis, I investigate the interplay between reproductive rights and regime transformations. My research has been published in peer-reviewed journals, and I have presented my work at various conferences, including the ECPR General Conference and the APSA Annual Meeting. 
-I hold a Master of Public Policy from the [Hertie School](https://www.hertie-school.org/en/), a B.A. in Political Science from [FernUniversität in Hagen](https://www.fernuni-hagen.de/KSW/portale/bapvs/) and a Mag. phil. in Art History from the [University of Vienna](https://kunstgeschichte.univie.ac.at/en/). 
+I am a Doctoral Researcher at the Berlin Graduate School for Global and Transregional Studies (BGTS) of SCRIPTS, the Cluster of Excellence at Freie Universität Berlin. My doctoral thesis investigates the interplay between reproductive rights and regime transformations. Additionally, I am a Visiting Fellow in the [Transformations of Democracy Unit](https://wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy) at the WZB Berlin Social Science Center, directed by Daniel Ziblatt. My research has been published in peer-reviewed journals, and I have presented my work at leading conferences, including the ECPR General Conference, the APSA Annual Meeting, and the MPSA Annual Meeting.
 
-Previously, I worked as a Research Fellow at the German Bundestag for Anna Lührmann, the State Minister for Europe and Climate, as a research assistant for the CoronaNet Project, and as a program development assistant in New York, co-organizing the Youth Assembly at the United Nations. Furthermore, my background includes experience in the art and publishing industries. 
+I hold a Master of Public Policy from the Hertie School, a Bachelor of Arts in Political Science from FernUniversität in Hagen, and a Master of Arts in Art History from the University of Vienna. In recognition of my research achievements, I received the Hertie Data Science Award for my master’s thesis.
+
+Previously, I worked as a Research Fellow at the German Bundestag for Anna Lührmann, the State Minister for Europe and Climate, as a research assistant for the CoronaNet Project, and as a program development assistant in New York, where I co-organized the Youth Assembly at the United Nations. I also have a diverse background in the art and publishing industries.
+
 I am fluent in German and English and proficient in several other languages. I possess technical skills, including R and Python programming, Git & GitHub, MS Office, Adobe Creative Suite, and social media management.
 
 Connect with me to discuss research, policy, or collaboration opportunities.
@@ -26,6 +28,14 @@ Research Interests
 
 •	Computational Social Science and Text as Data 
 
+Upcoming 
+======
+
+- DiMES workshop on Automated Image and Video Analysis with Prof. Felicia Loecherbach, February 13-14, 2025
+- [ECPR Methods School Comparing Countries with Multivariate Statistical Techniques](https://ecpr.eu/Events/Event/PanelDetails/15613) March 24–28, 2025
+- [Midwest Political Science Association (MPSA)](https://www.mpsanet.org/conference/) April 3-6, 2025 
+- [2025 Male Supremacism Studies Conference](https://www.theirms.org/conference) April 24-26, 2025
+
 
 Peer-reviewed publications
 ======
@@ -36,8 +46,10 @@ Klatt, Nikolina** and Böhret, Ines**. 2021. “[Women's Rights in Childbirth du
 ** contributed equally 
 
 
-Non-reviewed publications
+Other publications
 ======
+
+Klatt, Nikolina. 2024. [“Judicial Rulings and Political Narratives. Analyzing the Impact of Roe v. Wade's Overturning on Digital Discourse Using Machine Learning”](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bibliothek.wzb.eu/pdf/2024/v24-502.pdf&ved=2ahUKEwjAk-a8zYaLAxWE3QIHHYMpFz0QFnoECBIQAQ&usg=AOvVaw3U0xCqSv_gYkZBTFwqmRc-). WZB Discussion Paper SP V 2024-502. Berlin: WZB.
 
 Klatt, Nikolina (2024): "[Zwischen Fortschritt und Rückschritt. Der komplexe Kampf um Frauenrechte weltweit](https://bibliothek.wzb.eu/artikel/2024/f-26070.pdf)". In: WZB-Mitteilungen, H. 1=Nr. 183, S. 33-36.
 
@@ -51,14 +63,14 @@ Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische G
 
 Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie – Eine Fallstudie zu politischen Erzählungen.” In: Facetten Politischer Kommunikation – Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher, Shaker Verlag GmbH. [https://doi.org/10.2370/9783844087567](https://doi.org/10.2370/9783844087567)
 
+
 Work in Progress
 ======
-_The Effect of Judicial Decisions on Policy Narratives. Analyzing the Impact of Roe v. Wade's Overturning on Digital Discourse Using Machine Learning_
-
-_Abortion Law and Democratic Backsliding_
-
-_What Is Democracy (to You)?_ with Vanessa Boese-Schlosser, Janice Ngiam and Daniel Ziblatt
-
+•	_Abortion Law and Democratic Backsliding_
+•	_Reproductive Regimes and Political Demography in the United States_ with Myra Marx Ferree 
+•	_What is Democracy to You?_ with Vanessa Boese-Schlosser, Janice Ngiam and Daniel Ziblatt
+•	“Democratization, de-democratization, and human rights,” chapter for the _Handbook of Democratization and De-Democratization_ edited by Matthijs Bogaards
+•	“Authoritarianism and disinformation,” entry for the _Encyclopedia of Authoritarianism_ edited by Thomas Ambrosio and Stephen Hall 
 
 CV
 ======
