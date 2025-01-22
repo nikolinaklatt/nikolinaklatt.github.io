@@ -28,10 +28,10 @@ Research Interests
 
 •	Computational Social Science and Text as Data 
 
-Upcoming 
+Upcoming Participations
 ======
 
-- DiMES workshop on Automated Image and Video Analysis with Prof. Felicia Loecherbach, February 13-14, 2025
+- DiMES workshop on Automated Image and Video Analysis by Prof. Felicia Loecherbach, February 13-14, 2025
 - [ECPR Methods School Comparing Countries with Multivariate Statistical Techniques](https://ecpr.eu/Events/Event/PanelDetails/15613) March 24–28, 2025
 - [Midwest Political Science Association (MPSA)](https://www.mpsanet.org/conference/) April 3-6, 2025 
 - [2025 Male Supremacism Studies Conference](https://www.theirms.org/conference) April 24-26, 2025
