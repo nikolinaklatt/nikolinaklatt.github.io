@@ -31,16 +31,12 @@ Research Interests
 Upcoming Participations
 ======
 
-- DiMES workshop on Automated Image and Video Analysis by Prof. Felicia Loecherbach, February 13-14, 2025
-- [ECPR Methods School Comparing Countries with Multivariate Statistical Techniques](https://ecpr.eu/Events/Event/PanelDetails/15613) March 24–28, 2025
-- [Midwest Political Science Association (MPSA)](https://www.mpsanet.org/conference/) April 3-6, 2025 
-- [2025 Male Supremacism Studies Conference](https://www.theirms.org/conference) April 24-26, 2025
-
+- [1st Annual Interdisciplinary WZB Conference](https://www.wzb.eu/en/events/1st-annual-interdisciplinary-wzb-conference), October 8 - 10, 2025 
 
 Peer-reviewed publications
 ======
 
-Klatt, Nikolina and Blum, Sonja. 2024 “How does the use of evidence in policy narratives change during crises? A comparative study of New York City’s pandemic school shutdowns.” In: Review of Policy Research (online first), [10.1111/ropr.12589](https://doi.org/10.1111/ropr.12589) 
+Klatt, Nikolina and Blum, Sonja. 2025 “How does the use of evidence in policy narratives change during crises? A comparative study of New York City’s pandemic school shutdowns.” In: Review of Policy Research (Volume 42, Issue 5), [10.1111/ropr.12589](https://doi.org/10.1111/ropr.12589) 
 
 Klatt, Nikolina** and Böhret, Ines**. 2021. “[Women's Rights in Childbirth during the COVID-19 Pandemic: A comparison of WHO guidelines to policies, recommendations, and practices in the US and Germany](files/Klatt_Boehret_2021.pdf)” In: Cross-cultural Human Rights Review (3):1-41, [http://doi.org/10.52854/cchrr-51](http://doi.org/10.52854/cchrr-51).
 ** contributed equally 
