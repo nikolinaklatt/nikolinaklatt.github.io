@@ -36,7 +36,7 @@ Upcoming Participations
 Peer-reviewed publications
 ======
 
-Klatt, Nikolina and Blum, Sonja. 2025 “How does the use of evidence in policy narratives change during crises? A comparative study of New York City’s pandemic school shutdowns.” In: Review of Policy Research (Volume 42, Issue 5), [10.1111/ropr.12589](https://doi.org/10.1111/ropr.12589) 
+Klatt, Nikolina and Blum, Sonja. 2025 “[How does the use of evidence in policy narratives change during crises? A comparative study of New York City’s pandemic school shutdowns](https://doi.org/10.1111/ropr.12589)” In: Review of Policy Research (42:1322–1349) , [10.1111/ropr.12589](https://doi.org/10.1111/ropr.12589) 
 
 Klatt, Nikolina** and Böhret, Ines**. 2021. “[Women's Rights in Childbirth during the COVID-19 Pandemic: A comparison of WHO guidelines to policies, recommendations, and practices in the US and Germany](files/Klatt_Boehret_2021.pdf)” In: Cross-cultural Human Rights Review (3):1-41, [http://doi.org/10.52854/cchrr-51](http://doi.org/10.52854/cchrr-51).
 ** contributed equally 
