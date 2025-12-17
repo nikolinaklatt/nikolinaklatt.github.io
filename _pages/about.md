@@ -28,11 +28,6 @@ Research Interests
 
 •	Computational Social Science and Text as Data 
 
-Upcoming Participations
-======
-
-- [1st Annual Interdisciplinary WZB Conference](https://www.wzb.eu/en/events/1st-annual-interdisciplinary-wzb-conference), October 8 - 10, 2025 
-
 Peer-reviewed publications
 ======
 
@@ -44,6 +39,8 @@ Klatt, Nikolina** and Böhret, Ines**. 2021. “[Women's Rights in Childbirth du
 
 Other publications
 ======
+
+Vanessa Boese-Schlosser, **Nikolina Klatt**, Daniel Meißner, Janice Ngiam, Daniel Ziblatt. 2025. ["How Survey Design Influences People’s Understanding of Democracy"](https://bibliothek.wzb.eu/pdf/2025/v25-504.pdf). WZB Discussion Paper SP V 2025-504. Berlin: WZB.
 
 Klatt, Nikolina. 2024. [“Judicial Rulings and Political Narratives. Analyzing the Impact of Roe v. Wade's Overturning on Digital Discourse Using Machine Learning”](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bibliothek.wzb.eu/pdf/2024/v24-502.pdf&ved=2ahUKEwjAk-a8zYaLAxWE3QIHHYMpFz0QFnoECBIQAQ&usg=AOvVaw3U0xCqSv_gYkZBTFwqmRc-). WZB Discussion Paper SP V 2024-502. Berlin: WZB.
 
