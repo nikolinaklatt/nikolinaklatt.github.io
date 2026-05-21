@@ -31,7 +31,7 @@ Research Interests
 Upcoming
 ======
 - Poster presentation at [Vision in Methodology](https://vim2026.com/schedule), 28-30 May 2026, Hertie School, Berlin
-- Visiting Stay at Nuffiel College, University of Oxford, 1-12 June 2026, Oxford
+- Visiting Stay at Nuffield College, University of Oxford, 1-12 June 2026, Oxford
 - Panel chair and paper presentations at [European Conference on Politics and Gender (ECPG)](https://ecpr.eu/Events/Event/PanelDetails/16875), 15-17 June 2026, Newcastle University
 - Paper presentation at [European Political Science Society 2026 Annual Conference (EPSS)](https://epssnet.org/belfast-2026/), 18-20 June 2026, Belfast 
 
