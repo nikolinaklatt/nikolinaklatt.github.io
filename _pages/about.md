@@ -14,7 +14,7 @@ I hold a Master of Public Policy from the Hertie School, a Bachelor of Arts in P
 
 Previously, I worked as a Research Fellow at the German Bundestag for Anna Lührmann, the State Minister for Europe and Climate, as a research assistant for the CoronaNet Project, and as a program development assistant in New York, where I co-organized the Youth Assembly at the United Nations. I also have a diverse background in the art and publishing industries.
 
-I am fluent in German and English and proficient in several other languages. I possess technical skills, including R and Python programming, Git & GitHub, MS Office, Adobe Creative Suite, and social media management.
+I am fluent in German and English and proficient in several other languages. I possess technical skills, including R and Python programming, Git & GitHub, MS Office, and Adobe Creative Suite.
 
 Connect with me to discuss research, policy, or collaboration opportunities.
 
@@ -27,6 +27,13 @@ Research Interests
 •	Policy Process Research
 
 •	Computational Social Science and Text as Data 
+
+Upcoming
+======
+- Poster presentation at [Vision in Methodology](https://vim2026.com/schedule), 28-30 May 2026, Hertie School, Berlin
+- Visiting Stay at Nuffiel College, University of Oxford, 1-12 June 2026, Oxford
+- Panel chair and paper presentations at [European Conference on Politics and Gender (ECPG)](https://ecpr.eu/Events/Event/PanelDetails/16875), 15-17 June 2026, Newcastle University
+- Paper presentation at [European Political Science Society 2026 Annual Conference (EPSS)](https://epssnet.org/belfast-2026/), 18-20 June 2026, Belfast 
 
 Peer-reviewed publications
 ======
@@ -56,13 +63,6 @@ Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische G
 
 Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie – Eine Fallstudie zu politischen Erzählungen.” In: Facetten Politischer Kommunikation – Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher, Shaker Verlag GmbH. [https://doi.org/10.2370/9783844087567](https://doi.org/10.2370/9783844087567)
 
-
-Upcoming
-======
-- Poster presentation at [Vision in Methodology](https://vim2026.com/schedule), 28-30 May 2026, Hertie School, Berlin
-- Visiting Stay at Nuffiel College, University of Oxford, 1-12 June 2026, Oxford
-- Panel chair and paper presentations at [European Conference on Politics and Gender (ECPG)](https://ecpr.eu/Events/Event/PanelDetails/16875), 15-17 June 2026, Newcastle University
-- Paper presentation at [European Political Science Society 2026 Annual Conference (EPSS)](https://epssnet.org/belfast-2026/), 18-20 June 2026, Belfast 
 
 CV
 ======
