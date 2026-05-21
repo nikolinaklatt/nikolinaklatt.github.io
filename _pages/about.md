@@ -57,13 +57,12 @@ Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische G
 Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie – Eine Fallstudie zu politischen Erzählungen.” In: Facetten Politischer Kommunikation – Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher, Shaker Verlag GmbH. [https://doi.org/10.2370/9783844087567](https://doi.org/10.2370/9783844087567)
 
 
-Work in Progress
+Upcoming
 ======
-- _Abortion Law and Democratic Backsliding_
-- _Reproductive Regimes and Political Demography in the United States_ with Myra Marx Ferree
-- _What is Democracy to You?_ with Vanessa Boese-Schlosser, Janice Ngiam and Daniel Ziblatt
-- “Democratization, de-democratization, and human rights,” chapter for the _Handbook of Democratization and De-Democratization_ edited by Matthijs Bogaards
-- “Authoritarianism and disinformation,” entry for the _Encyclopedia of Authoritarianism_ edited by Thomas Ambrosio and Stephen Hall 
+- Poster presentation at [Vision in Methodology](https://vim2026.com/schedule), 28-30 May 2026, Hertie School, Berlin
+- Visiting Stay at Nuffiel College, University of Oxford, 1-12 June 2026, Oxford
+- Panel chair and paper presentations at [European Conference on Politics and Gender (ECPG)](https://ecpr.eu/Events/Event/PanelDetails/16875), 15-17 June 2026, Newcastle University
+- Paper presentation at [European Political Science Society 2026 Annual Conference (EPSS)](https://epssnet.org/belfast-2026/), 18-20 June 2026, Belfast 
 
 CV
 ======
