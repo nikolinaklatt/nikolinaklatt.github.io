@@ -64,11 +64,17 @@ Work in Progress
 ======
 
 •	“Who governs matters – Anti-pluralist Ideology and Abortion Law” (under review)
+
 •	“Narrative Shifts in Political Discourse After Judicial Rulings” (under review)
+
 •	“Women's Place is in the Statehouse: The Politics of Presence in Discourse before and after Dobbs” with Danielle Pullan and Payton Gannon
+
 •	“Consequences of Anti-feminist Online Disourse” with Karoline Estermann
+
 •	“Disinformation” In: Encyclopedia of Authoritarianism edited by Thomas Ambrosio and Stephen G.F. Hall with Vanessa Boese-Schlosser (in press)
+
 •	“Reproductive Policy Under Authoritarianism: Lessons from the US and Beyond” with Anna Crawford and Amanda Roberti, in The Palgrave Handbook of Gender and Public Policy edited by Ola G.El-Taliawi, Emily St. Denny and Helen Sullivan (in press)
+
 •	“Democratization, de-democratization, and human rights,” in Handbook of Democratization and De-Democratization edited by Matthijs Bogaards
 
 
