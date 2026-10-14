@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://nikolinaklatt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikolinaklatt/nikolinaklatt.github.io"
-teaser                   : "Klatt_Nikolina_20240612_snapshot.jpg"
+teaser                   : "DSC00803 copy 2.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Nikolina Klatt"
-  avatar           : "Klatt_Nikolina_20240612_snapshot.jpg"
-  bio              : "Doctoral Researcher at SCRIPTS, Freie Universität Berlin & Visiting Research Fellow at WZB"
+  avatar           : "DSC00803 copy 2.jpg"
+  bio              : "Doctoral Researcher at SCRIPTS, Freie Universität Berlin"
   location         : "Berlin"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
