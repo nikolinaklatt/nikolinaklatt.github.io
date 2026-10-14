@@ -30,10 +30,7 @@ Research Interests
 
 Upcoming
 ======
-- Poster presentation at [Vision in Methodology](https://vim2026.com/schedule), 28-30 May 2026, Hertie School, Berlin
-- Visiting Stay at Nuffield College, University of Oxford, 1-12 June 2026, Oxford
-- Panel chair and paper presentations at [European Conference on Politics and Gender (ECPG)](https://ecpr.eu/Events/Event/PanelDetails/16875), 15-17 June 2026, Newcastle University
-- Paper presentation at [European Political Science Society 2026 Annual Conference (EPSS)](https://epssnet.org/belfast-2026/), 18-20 June 2026, Belfast 
+
 
 Peer-reviewed publications
 ======
@@ -62,6 +59,17 @@ Klatt, Nikolina/Boese-Schlosser, Vanessa (2023): "[Zwischen Fakten und Fiktion. 
 Klatt, Nikolina; Hellmeier, Sebastian and Ziblatt, Daniel (2022): "[Politische Gewalt und Demokratie. Konferenzbericht](files/Klatt_Hellmeier_Ziblatt_2022.pdf)". In: WZB-Mitteilungen, H. 4, Nr. 178, S. 62.
 
 Klatt, Nikolina. 2022. “Die Schliessungen des öffentlichen Schulsystems in New York City während der Covid-19-Pandemie – Eine Fallstudie zu politischen Erzählungen.” In: Facetten Politischer Kommunikation – Beiträge zum 18. Düsseldorfer Forum Politische Kommunikation, edited by Lara Boden, Robin Schröer, Natalie Ryba, and Leon Becher, Shaker Verlag GmbH. [https://doi.org/10.2370/9783844087567](https://doi.org/10.2370/9783844087567)
+
+Work in Progress
+======
+
+•	“Who governs matters – Anti-pluralist Ideology and Abortion Law” (under review)
+•	“Narrative Shifts in Political Discourse After Judicial Rulings” (under review)
+•	“Women's Place is in the Statehouse: The Politics of Presence in Discourse before and after Dobbs” with Danielle Pullan and Payton Gannon
+•	“Consequences of Anti-feminist Online Disourse” with Karoline Estermann
+•	“Disinformation” In: Encyclopedia of Authoritarianism edited by Thomas Ambrosio and Stephen G.F. Hall with Vanessa Boese-Schlosser (in press)
+•	“Reproductive Policy Under Authoritarianism: Lessons from the US and Beyond” with Anna Crawford and Amanda Roberti, in The Palgrave Handbook of Gender and Public Policy edited by Ola G.El-Taliawi, Emily St. Denny and Helen Sullivan (in press)
+•	“Democratization, de-democratization, and human rights,” in Handbook of Democratization and De-Democratization edited by Matthijs Bogaards
 
 
 CV
